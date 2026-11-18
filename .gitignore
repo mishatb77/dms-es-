@@ -1,0 +1,15 @@
+# Archivos temporales
+*.tmp
+*.bak
+*.bak-*
+*~
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
